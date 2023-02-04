@@ -11,7 +11,6 @@
  * Example of Require.js boostrap javascript
  */
 
-import 'oracle-redwood-theme/dist/css/oracle-redwood.css';
 
 (function () {
     // The "oj_whenReady" global variable enables a strategy that the busy context whenReady,
